@@ -1,9 +1,7 @@
 # 秒抄
 下载点[这里](https://github.com/qzgeek/ewt360/releases)
 
-- [贡献者]( 
-https://github.com/qzgeek/ewt360/contributors
- )
+- [贡献者](https://github.com/qzgeek/ewt360/contributors)
 
 ## 项目简介
 `秒抄` 是一个辅助工具，旨在在“升学e网通”上自动回答其教辅上的选择题、提交试卷及获取选择题的答案以及部分主观题的答案。
