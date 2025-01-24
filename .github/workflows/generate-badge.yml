@@ -3,7 +3,7 @@ name: Generate Contributor Badge
 on:
   schedule:
     # 每天执行一次
-    - cron: '0 0 * * *'
+    - cron: '0 17 * * *'
 
 jobs:
   generate-badge:
