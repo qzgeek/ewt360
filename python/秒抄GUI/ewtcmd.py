@@ -274,8 +274,6 @@ def genshin_launch(contentid,cookies):
     # 初始化结果列表
     right_answers = []
     # 对每个ID分别发起POST请求
-    with placeholder.container():
-        st.write("")
     for index, question_id in enumerate(id_list, start=1):
     # 更新数据中的questionId
         data = {
