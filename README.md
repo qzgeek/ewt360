@@ -31,7 +31,10 @@
 - 当然，如果你没有，基本可以退出了（不过你要想看看也行awa，但是没有他们的作业的话这项目拿来真没啥用(●_●)）
 
 ### 如何获取cookie？
-- 建议上网搜，例如[这里](https://b23.tv/NkkuXTj)
+- 自行上网搜索获取方法
+- 问问[DeepSeek](https://www.deepseek.com)
+- 问问[Kimi](https://kimi.moonshot.cn)
+- 点击[这里](https://sparkbridge.cn/pa.png)问问作者
 
 ## 创作动机
 1. **闲的**: 不闲咋会来搞呢awa
